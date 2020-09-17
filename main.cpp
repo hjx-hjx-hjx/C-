@@ -9,5 +9,5 @@ int main()
 	imshow("test", img);
 	//等待用户按键
 	waitKey(0);
-	return 0;
+	return 0; //我是谁
 }
